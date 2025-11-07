@@ -1,3 +1,5 @@
+<br clear="both">
+
 <h3 align="left">Hello There!!</h3>
 
 ###
@@ -25,21 +27,21 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="go logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="50" alt="ruby logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
-  <img width="20" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" alt="go logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="42" alt="ruby logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=ts" height="42" alt="typescript logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo"  />
+  <img width="30" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
 </div>
 
 ###
