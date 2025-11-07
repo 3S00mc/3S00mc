@@ -6,13 +6,9 @@
 
 ###
 
-<br clear="both">
-
-<h3 align="left">Hello There!!</h3>
+<img align="left" height="130" src="https://media.tenor.com/EJ5ezT8nTdoAAAAC/hello-there-obi-wan.gif"  />
 
 ###
-
-<br clear="both">
 
 <p align="left">I'm a Cybersecurity Student (Red Team), and Back-End Developer entusiast.<br><br>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
 
@@ -57,8 +53,16 @@
 
 <br clear="both">
 
+<div align="center">
+  <img height="500" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=10&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
