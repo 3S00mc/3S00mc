@@ -1,5 +1,13 @@
 <br clear="both">
 
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=10&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
+<br clear="both">
+
 <h3 align="left">Hello There!!</h3>
 
 ###
@@ -12,14 +20,17 @@
 
 <br clear="both">
 
-<p align="left">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3S00mc&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3S00mc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&custom_title=Mais%20Utilizados" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -29,19 +40,17 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="42" alt="java logo"  />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" alt="go logo"  />
-  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="42" alt="ruby logo"  />
   <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="42" alt="go logo"  />
+  <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="42" alt="linux logo"  />
   <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
   <img width="30" />
   <img src="https://skillicons.dev/icons?i=ts" height="42" alt="typescript logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=spring" height="42" alt="spring logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="42" alt="postgresql logo"  />
 </div>
 
 ###
@@ -49,24 +58,7 @@
 <br clear="both">
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=1&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=3S00mc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&custom_title=Mais%20Utilizados" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=3S00mc&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=10&section=header&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=10&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 
 ###
