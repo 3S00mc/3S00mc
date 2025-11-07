@@ -2,13 +2,9 @@
 
 <h2 align="left">Hello There!!</h2>
 
-###
-
 <br clear="both">
 
 <h4 align="left">I'm a Cybersecurity Student (Red Team), and Back-End Developer entusiast.</h4>
-
-###
 
 <br clear="both">
 
