@@ -72,7 +72,7 @@ Gosto de combinar mindset ofensivo com boas práticas de engenharia e arquitetur
 # Hobbies & Fun Facts
 - fã de Star Wars — "Hello there!" 🖖
 - fã de O Senhor dos Anéis — sempre aberto a discussões sobre a Terra‑média
-- Itachi é subestimado demais 
+- Itachi é subestimado demais 𖥂 
 - Gamer nas horas vagas
 - Sempre um café por perto durante pentests e code reviews ☕️
 
