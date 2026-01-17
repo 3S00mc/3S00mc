@@ -19,7 +19,7 @@
 
 <!-- Apresentacao Pessoal -->
 
-# 3S00mc é complicado, então pode me chamar de Pedro👋
+# Olá, me chamo Pedro👋
 Sou apaixonado por **Segurança da Informação** (Pentest & Bug Bounty) e entusiasta de desenvolvimento **backend em Java**.</br>
 Gosto de combinar mindset ofensivo com boas práticas de engenharia e arquitetura para construir sistemas mais seguros e confiáveis.
 
