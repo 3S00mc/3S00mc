@@ -6,7 +6,7 @@
   <img src="https://raw.githubusercontent.com/3S00mc/3S00mc/main/assets/banner-dark.svg" width="100%" alt="3S00mc banner" />
 </picture>
 
-<div align="left">
+<div align="right">
   <img src="https://tryhackme-badges.s3.amazonaws.com/ptrcosta.png" alt="Your Image Badge" />
 </div>
 
