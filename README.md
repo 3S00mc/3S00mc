@@ -107,7 +107,9 @@ $ tree ./security-experience
 ## `./stack`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,bash,docker,linux,postgres,git,postman,kali&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,python,wireshark&theme=dark&perline=5" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,java&theme=dark&perline=5" />
 </div>
 
 <br>
