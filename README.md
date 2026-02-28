@@ -9,8 +9,11 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptrcosta/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/3S00mc)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3S00mc)
+
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ptrcosta.png" alt="Your Image Badge" />
+</div>
 
 <br>
 
@@ -103,9 +106,6 @@ $ tree ./security-experience
 └── /checklists    # modelos de pentest e análise de APIs
 ```
 
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ptrcosta.png" alt="Your Image Badge" />
-</div>
 
 <br>
 
