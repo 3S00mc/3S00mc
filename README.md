@@ -1,9 +1,5 @@
 <div align="center">
 
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ptrcosta.png" alt="Your Image Badge" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3S00mc/3S00mc/main/assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3S00mc/3S00mc/main/assets/banner-light.svg" />
