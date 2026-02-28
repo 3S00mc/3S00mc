@@ -22,6 +22,13 @@
 
 </div>
 
+<!-- Visible only in light mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3S00mc/3S00mc/main/assets/darkmode-hint-hidden.svg" />
+  <img src="https://raw.githubusercontent.com/3S00mc/3S00mc/main/assets/darkmode-hint.svg" alt="best viewed in dark mode" />
+</picture>
+
+
 ---
 
 ## `./skills --offensive`
@@ -98,7 +105,7 @@ $ tree ./security-experience
 
 <div align="center">
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/3S00mc.png)](https://tryhackme.com/p/3S00mc)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-3S00mc-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/3S00mc)
 
 </div>
 
@@ -107,7 +114,7 @@ $ tree ./security-experience
 ## `./stack`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,python,wireshark&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=kali,linux,bash,python,nmap&theme=dark&perline=5" />
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,java&theme=dark&perline=5" />
 </div>
