@@ -1,5 +1,9 @@
 <div align="center">
 
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ptrcosta.png" alt="Your Image Badge" />
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/3S00mc/3S00mc/main/assets/banner-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/3S00mc/3S00mc/main/assets/banner-light.svg" />
@@ -10,10 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ptrcosta/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/3S00mc)
-
-<div align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ptrcosta.png" alt="Your Image Badge" />
-</div>
 
 <br>
 
