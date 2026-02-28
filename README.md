@@ -6,9 +6,6 @@
   <img src="https://raw.githubusercontent.com/3S00mc/3S00mc/main/assets/banner-dark.svg" width="100%" alt="3S00mc banner" />
 </picture>
 
-<div align="right">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/ptrcosta.png" alt="Your Image Badge" />
-</div>
 
 <!-- <br>
 
@@ -22,6 +19,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=006400&center=true&vCenter=true&multiline=true&width=620&height=70&lines=Attacking+systems+to+defend+them+better.;OWASP+%7C+MITRE+ATT%26CK+%7C+responsible+disclosure." />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=620&height=70&lines=Attacking+systems+to+defend+them+better.;OWASP+%7C+MITRE+ATT%26CK+%7C+responsible+disclosure." />
 </picture>
+
+<div align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/ptrcosta.png" alt="Your Image Badge" />
+</div>
 
 </div>
 
