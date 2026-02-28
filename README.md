@@ -104,9 +104,7 @@ $ tree ./security-experience
 ```
 
 <div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-3S00mc-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/3S00mc)
-
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6343634" style='border:none;'></iframe>
 </div>
 
 <br>
@@ -114,7 +112,7 @@ $ tree ./security-experience
 ## `./stack`
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=kali,linux,bash,python,nmap&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=windows,kali,linux,bash,python&theme=dark&perline=5" />
 <br/>
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions,vscode,java&theme=dark&perline=5" />
 </div>
